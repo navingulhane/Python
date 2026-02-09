@@ -4,3 +4,5 @@ c = int(input("Enter third number:"))
 
 greatest = max(a,b,c)
 print("greatest =" , greatest )
+
+..
