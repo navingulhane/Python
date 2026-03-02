@@ -4,7 +4,7 @@ This repository documents my journey of learning Python from scratch and buildin
 
 I will continuously add programs, exercises, and mini projects as I learn.
 
-##  Goals
+##  Goals..
 
 - Master Python fundamentals
 - Improve problem-solving skills
